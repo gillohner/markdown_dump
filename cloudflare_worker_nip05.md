@@ -8,7 +8,7 @@
 
     > NOSTR_NPUB_HEX_ENCODED = https://nostrcheck.me/converter/
 
-    > NOSTR_USERNAME = display name
+    > NOSTR_USERNAME = display name (alternativ kann auch _ eingegeben werden, um gegen die Domain zu validieren)
 
     > Relays sind optional 
 
